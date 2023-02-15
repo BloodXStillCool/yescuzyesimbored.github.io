@@ -28,6 +28,6 @@ function validateCaptcha() {
       errCaptcha.innerHTML = "Wrong captcha";
     } else {
       errCaptcha.innerHTML = "Done";
-      location.replace("file:///D:/actually%20real%20coding/Boileds%20World/main.html")
+      location.replace("https://discord.gg/tranzit-blood-commuity-978111972560224326")
     }
   }
