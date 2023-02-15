@@ -28,6 +28,6 @@ function validateCaptcha() {
       errCaptcha.innerHTML = "Wrong captcha";
     } else {
       errCaptcha.innerHTML = "Done";
-      location.replace("https://discord.gg/tranzit-blood-commuity-978111972560224326")
+      location.replace("https://google.com")
     }
   }
